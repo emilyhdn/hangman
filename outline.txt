@@ -1,0 +1,9 @@
+6/26: create a word bank, and select a word at random. graphics of hangman
+
+6/27: work on graphics of alphabet displayed in little boxes for user selection
+
+6/28: work on display of correct alphabets in a word
+
+6/29: display of end of the game when win and lose
+
+no partner

@@ -1,0 +1,5 @@
+project: hangman
+
+no partner
+
+for elaborations, I want to incorporate graphics of hangman, and try to include buttons of alphabet for user selection.
